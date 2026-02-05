@@ -60,7 +60,7 @@ This is **not a collection of scripts**, but **system-level artifacts**.
 ## Academic & Professional Roles
 
 - Director, **Center for Automation & Robotics Research (CARR Lab)**
-- Assistant Professor, Automation & Robotics
+- Faculty, Department of Automation & Robotics
 - Research mentor for UG, PG, and PhD scholars
 - Consultant on applied automation, robotics, and energy systems
 - Founder – **Saureno Energrene Pvt. Ltd.**
