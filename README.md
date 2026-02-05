@@ -1,7 +1,7 @@
 # Dr. Rakesh P. Tapaskar
 
 **Director – Center for Automation & Robotics Research (CARR Lab)**  
-Assistant Professor | Automation & Robotics  
+Faculty @ Department of Automation & Robotics  
 KLE Technological University, Hubballi, India
 
 ---
