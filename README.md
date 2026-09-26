@@ -71,6 +71,7 @@ This is **not a collection of scripts**, but **system-level artifacts**.
 
 - Autonomous Mobile Robots: https://rptapaskar.github.io/Autonomous-Mobile-Robots/
 - Autonomous Mobile Robotics Tutorial: https://rptapaskar.github.io/AMR_Tutorial/
+- Mobile Robotics and Perception: https://rptapaskar.github.io/Mobile-Robotics-and-Perception/
 - Robot Operating System Lab: https://rptapaskar.github.io/ROS_LAB_BASIC/
   
 ---
