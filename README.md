@@ -67,6 +67,14 @@ This is **not a collection of scripts**, but **system-level artifacts**.
 
 ---
 
+## Course and Labs
+
+- Autonomous Mobile Robots: https://rptapaskar.github.io/Mobile-Robotics-and-Perception/index.html
+- Autonomous Mobile Robotics Tutorial: https://rptapaskar.github.io/AMR_Tutorial/
+- Robot Operating System Lab: https://rptapaskar.github.io/ROS_LAB_BASIC/
+  
+---
+
 ## Contact & Links
 
 - 🌐 https://www.kletech.ac.in  
